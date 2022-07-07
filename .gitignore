@@ -43,8 +43,8 @@ fp-info-cache
 *.xml
 *.csv
 
-# Gerber files
-*/**/gerber
+# # Gerber files
+# */**/gerber
 
 # For current project only
 */**/._Kretstr*
