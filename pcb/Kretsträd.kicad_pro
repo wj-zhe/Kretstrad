@@ -401,7 +401,12 @@
         "microvia_drill": 0.1,
         "name": "VCC",
         "nets": [
-          "VCC"
+          "/PWR",
+          "BT+",
+          "RAW",
+          "VCC",
+          "unconnected-(PWR_SW_1-Pad1)",
+          "unconnected-(PWR_SW_2-Pad1)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
