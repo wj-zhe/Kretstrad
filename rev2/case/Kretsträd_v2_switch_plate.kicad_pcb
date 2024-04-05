@@ -1,0 +1,2596 @@
+(kicad_pcb
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(general
+		(thickness 1.6)
+		(legacy_teardrops no)
+	)
+	(paper "A4")
+	(title_block
+		(title "Kretsträd")
+		(company "by JW")
+	)
+	(layers
+		(0 "F.Cu" signal)
+		(31 "B.Cu" signal)
+		(32 "B.Adhes" user "B.Adhesive")
+		(33 "F.Adhes" user "F.Adhesive")
+		(34 "B.Paste" user)
+		(35 "F.Paste" user)
+		(36 "B.SilkS" user "B.Silkscreen")
+		(37 "F.SilkS" user "F.Silkscreen")
+		(38 "B.Mask" user)
+		(39 "F.Mask" user)
+		(40 "Dwgs.User" user "User.Drawings")
+		(41 "Cmts.User" user "User.Comments")
+		(42 "Eco1.User" user "User.Eco1")
+		(43 "Eco2.User" user "User.Eco2")
+		(44 "Edge.Cuts" user)
+		(45 "Margin" user)
+		(46 "B.CrtYd" user "B.Courtyard")
+		(47 "F.CrtYd" user "F.Courtyard")
+		(48 "B.Fab" user)
+		(49 "F.Fab" user)
+	)
+	(setup
+		(stackup
+			(layer "F.SilkS"
+				(type "Top Silk Screen")
+			)
+			(layer "F.Paste"
+				(type "Top Solder Paste")
+			)
+			(layer "F.Mask"
+				(type "Top Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "F.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 1"
+				(type "core")
+				(thickness 1.51)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "B.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "B.Mask"
+				(type "Bottom Solder Mask")
+				(thickness 0.01)
+			)
+			(layer "B.Paste"
+				(type "Bottom Solder Paste")
+			)
+			(layer "B.SilkS"
+				(type "Bottom Silk Screen")
+			)
+			(copper_finish "None")
+			(dielectric_constraints no)
+		)
+		(pad_to_mask_clearance 0.2)
+		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 227.77139 23.242681)
+		(grid_origin 227.77139 23.242681)
+		(pcbplotparams
+			(layerselection 0x0001000_7ffffffe)
+			(plot_on_all_layers_selection 0x0000000_00000000)
+			(disableapertmacros no)
+			(usegerberextensions yes)
+			(usegerberattributes no)
+			(usegerberadvancedattributes no)
+			(creategerberjobfile no)
+			(dashed_line_dash_ratio 12.000000)
+			(dashed_line_gap_ratio 3.000000)
+			(svgprecision 6)
+			(plotframeref no)
+			(viasonmask no)
+			(mode 1)
+			(useauxorigin no)
+			(hpglpennumber 1)
+			(hpglpenspeed 20)
+			(hpglpendiameter 15.000000)
+			(pdf_front_fp_property_popups yes)
+			(pdf_back_fp_property_popups yes)
+			(dxfpolygonmode no)
+			(dxfimperialunits no)
+			(dxfusepcbnewfont yes)
+			(psnegative no)
+			(psa4output no)
+			(plotreference yes)
+			(plotvalue yes)
+			(plotfptext yes)
+			(plotinvisibletext no)
+			(sketchpadsonfab no)
+			(subtractmaskfromsilk yes)
+			(outputformat 3)
+			(mirror no)
+			(drillshape 0)
+			(scaleselection 1)
+			(outputdirectory "dxf")
+		)
+	)
+	(net 0 "")
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "0825cf41-4cb1-43cb-8b65-897a66a84076")
+		(at 107.74639 95.208681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW12"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "705d8e39-5265-42c6-aac1-280e2362dca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW12"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "3023a4fd-2b4a-4b83-a93b-ba2cf96b3f03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c6555d2-eacd-4b9a-a8ac-186e64e85f98")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3fa90f5b-b8fa-47c4-b966-7f5417990fbf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "95232b74-5e11-45b3-aa73-8fcb30b7653a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/b71d634b-8ac2-41b9-83b1-fecd2225d7c5")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "19a5cf56-d0f0-4c55-9026-05570d2b16dd")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "36af9610-8ecc-4663-acaf-beccf77a1f18")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "8f5d9e2c-a717-48ef-adf1-691f013a74bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:MountingHole_2.2mm_M2_cutout"
+		(layer "F.Cu")
+		(uuid "0e4f15c6-2f38-406c-9b36-46257a2e0a73")
+		(at 100.2284 106.0196)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "TH3"
+			(at 0 -3.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1d5fe0a0-f230-47d7-bd14-d14b0608f6a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "HOLE"
+			(at 0 3.2 0)
+			(layer "F.Fab")
+			(uuid "6ff5b819-fb50-4081-b4d3-e4141123ee88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4acf591-ba54-4823-abda-81914bf66d84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2ecf1f5-a55a-4256-9286-b150999436f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52d56f98-15aa-4e60-b4d2-bde2286f4e3c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/d5bdc65a-c5a8-4655-8d9e-f6e2497e3ffb")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 1.1 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "be37c65c-e808-47b8-8add-aca4a4b24039")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "e22c97ac-11e6-49a5-afe7-2b82c2f5b8a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "12d2fc1c-653b-4307-8ecf-44ae13de912b")
+		(at 126.04619 75.408681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW8"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "89d1a0d5-01b7-4281-b41e-04ea251d5d4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW8"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "3be40f33-2286-4a99-8ffc-430c4bb22867")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e72129f0-2064-4ea4-b5da-23e2065b11e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fad72df-6a7d-451a-acd9-f8ca80bdba0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e80ba32-6597-4574-966b-ba59150595a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/81092086-01e6-4b6d-831b-d68158a335a7")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "8994e038-8137-4535-8183-e0a4765430c1")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "bb6c7a36-aff0-4609-8400-959f04a202a0")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "7515d6d2-90bf-4004-8876-174cc12c5281")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "13852f16-498e-443d-b008-d181753dab30")
+		(at 107.74639 78.208681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW7"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "c9fb0fad-67ad-4e37-818e-1fcd4b047c52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW7"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "93f7cdf5-a108-45d6-851a-5076c5b754a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de0ebb55-5624-4df0-88da-fd878953bb71")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f733d07f-73e3-4c71-b28a-d9c80e864ff8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94f37038-861a-4343-9633-eabcaa09c2fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/70547b44-4679-43f1-82da-411b3f706476")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "9e15ed89-0677-45e9-ae97-65280897a40a")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "bf6e77b6-e071-44f7-873a-6b6f4e98c101")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "d59561d3-2d17-48f0-bb67-ca89b7d29891")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "1d0bb732-1979-4e8f-80fb-9fb88dfa6259")
+		(at 126.04619 92.408681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW13"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "9109bcff-5fc1-4837-940f-a2bdf8dbe2ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW13"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "d6c7abb2-7322-4485-a6b0-cd0b68c33f78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b162bb8-f0ef-45d1-8a2b-f08a9a5f950c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21224d9b-2157-4ec6-a8e8-e96f79299772")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea1c4028-9089-4149-ab93-a353da287410")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/dc75e9a2-b049-410a-a685-6fe68c94b193")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "245be490-7331-4e2b-80cd-8e46945f1a13")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "9ca1f5a2-52e7-4b89-964d-38356abcb752")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "f9e11415-15c4-49b2-8b36-3583b9b41673")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "3ad5c0e7-1d1b-4f79-b5cd-4567c6591c20")
+		(at 107.74639 61.208681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW2"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "52ffb69d-2305-4793-895d-8e887efca8b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW2"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "36134849-284e-4106-868b-3093c035bb36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41d9378d-3e41-412b-aec4-5a1827c6d4ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "940120e3-a3d8-4f6e-991b-50235c361431")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "997b9266-890d-4206-b1e2-9381e6368d31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/a64034db-60b0-4213-b559-697127e1cdc3")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "abb7fe02-4017-44d7-9822-1ef0b2f70a6a")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "cfdebd36-34ba-4123-b8d3-c6aaf2842fe7")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "36ceecb6-6f28-4ccf-a102-3a8ab0a67d5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "5bdf6587-3a8a-4513-9089-f2b4f050eda8")
+		(at 89.44659 98.208481)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW11"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "da0feab7-0991-4545-ace3-91785df868f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW11"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "f0c7410f-d882-498a-b51b-8b53dee08844")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce3a9dd2-9d0e-42b6-aaaf-8f2c6b6a4e0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d05da919-8060-48b0-a51b-f30f3b830de8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "828d5cb3-fa39-4649-acb0-bd64560ce0f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/89a06b79-d32a-4b7d-b174-a930e089b3cd")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "d9e7fe91-c262-4b4e-94c4-341ee8554b1c")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "735f2a0a-1b6d-4d49-bbdd-3da60fad8115")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "1d5b3175-692b-4bd6-b56c-2406d91cecb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "65c4312f-b25e-467c-a56c-a8c2f6a00599")
+		(at 144.34599 61.208481)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW4"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "4ccd8fcb-9951-4381-bab0-8bdb9971ccde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW4"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "c20d34d1-021d-41cf-bd5b-8e2d91a71135")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2f4dc85-b4c5-449d-a026-4eab83b4d051")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d02a2eef-726f-4ab8-b5dc-ed21ad2ee92b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2ef9f0fb-32a2-42e4-9d3e-bceff6086cf8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/68609b5c-8fbd-43e9-93ab-9443775366c6")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "10f783f0-5a62-424d-8345-c7afe3234fde")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "0e77e24d-3204-4070-898b-5607af03fc04")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "4ee6410d-32b8-4448-a6ef-4b6296b31498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:MountingHole_2.2mm_M2_cutout"
+		(layer "F.Cu")
+		(uuid "6b38a127-cfd7-4f13-9106-f56b3a2ac939")
+		(at 159.0548 114.1476)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "TH4"
+			(at 0 -3.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "17e43e9f-a06b-497f-b5c6-94fe3b9045de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "HOLE"
+			(at 0 3.2 0)
+			(layer "F.Fab")
+			(uuid "718c56c9-e44a-4f0e-bd2a-cca5114b133a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baa09024-ed2b-468f-8a14-e22ca3d58e6b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1950c74b-920c-4886-b1e7-328961b96920")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caa44a90-53cf-487d-8173-0ed99ccf2ee0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/6e1f3770-4a6c-454c-abf7-7b3076c7732e")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 1.1 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "e252872a-aa47-40ff-9c52-5f097fa55bc0")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b9f9cba1-ddc2-4158-b82c-9f3098f2c0af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "6ca65139-9e8c-46a7-9bf8-c2ea8655f83b")
+		(at 167.197001 123.905176 -15)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW17"
+			(at 0 -1.905 165)
+			(layer "F.Fab")
+			(uuid "3c5ac711-90e7-4bd3-a7e7-f4b0ca0a7e39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW17"
+			(at 0 1.778 165)
+			(layer "F.Fab")
+			(uuid "c5df0224-5cea-419c-8762-2f28831c9b10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 -15)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c288731c-feff-49ed-9591-60c596127bfe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 -15)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a78b8cc4-a6ab-430e-966b-d4b790093625")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 -15)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a6a4f01-6487-42bf-a343-b3fafa5ceb66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/a136b1e0-f13a-4e7e-9c82-c8f10acc7ef8")
+		(attr smd)
+		(fp_poly
+			(pts
+				(xy -7 -7) (xy 7 -7) (xy 7 7) (xy -7 7)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "94a469b8-e9a2-42a1-b8ca-7096ae59b1fc")
+		)
+		(fp_poly
+			(pts
+				(xy -9 -8.5) (xy 9 -8.5) (xy 9 8.5) (xy -9 8.5)
+			)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "eb4fd9a7-0498-4bae-925b-08b9679b9a10")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 165)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "1abca9c6-4b10-40c1-ae2f-c5fb83b74d22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "797777ad-bc08-46b9-9700-5a51dcc576fb")
+		(at 126.04619 58.408681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW3"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "f1de6dbf-c801-4f60-84c0-82557e25a7fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW3"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "a0cf53ee-3b68-471d-bca4-0d5eb75af201")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "103c6b3b-6a16-4a31-bcbf-8f958ce4b20e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "80fea7ac-be21-443d-bcb6-66580c514b72")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6963f07a-61b9-46b6-8662-cfffa953a528")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/94cd0168-5797-40b6-8c81-305399657f78")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "eba3ab3a-c570-462e-a3df-c8272aed5421")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "1a4c181f-e736-4262-a74c-77b87ec4020e")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "3f51dd2c-303b-4dd7-bc85-cb4e59b1fccc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "8e8d9c4a-010d-41db-84a6-44efc423fbde")
+		(at 144.34599 95.208681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW14"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46395f5b-d967-4a29-9ca4-60e43095acc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW14"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57b3453f-8790-4fa4-8ab4-6083b59ea7e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e98a36f9-f257-49f6-8eaa-7217580513f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6503e172-ae22-4f8c-82bb-39e87935c1eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b4ee6c5-1dff-4386-aa56-ed5ce8041dd5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/d6db04ea-7d6a-4742-92a1-a02e511fe61f")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "b8db7843-9fd9-4c72-9ef5-05382516a0d7")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "c1ab8aa2-7afe-4905-a8e6-cf7aab67d07c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a24e37c2-ca0c-47f5-a7e9-48ee817f9843")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "8f43e380-9d28-495f-b0cb-c2d1f9b0b8e7")
+		(at 144.34599 78.208681)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW9"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "3bb95019-ea48-4fae-bb65-c705841663b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW9"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "1ae454a2-68ea-43e7-85c1-4afea67de8ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55efb9c9-2b3e-4a85-87e7-8792955d29d4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc054e81-edd0-473f-bc6c-8f74e7c8690a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa64add2-bc55-45fa-a799-e498d9d5d1d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/45abf69e-2543-4632-97c5-bee5a388b4f8")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "8897d3d0-aaeb-4b5f-b1db-7e109d39c464")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "7b1dc012-b53e-4e0f-9b45-a25e711f0d50")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "75ca9464-2df8-40f4-b9ac-d17334a0a8c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:MountingHole_2.2mm_M2_cutout"
+		(layer "F.Cu")
+		(uuid "92e55443-464b-45f2-80c6-f3b6dcf72e69")
+		(at 97.3328 53.5432)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "TH1"
+			(at 0 -3.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "2249552b-5077-4174-985b-ef781a7402bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "HOLE"
+			(at 0 3.2 0)
+			(layer "F.Fab")
+			(uuid "1b030aba-d194-4567-a0ea-737229644089")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a012cd8a-d3ae-4749-bd1e-b69b1e520174")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44ff2461-8365-490a-bbf6-b4ed1dd35f60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a6151d6-b571-470a-8776-7af0663a7f7a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/687b769d-1e30-4a9a-beb5-74bc571e2b0f")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 1.1 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "c0b2dd9f-5488-419d-9f94-63fd8b638a59")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "2f638c63-33f7-4439-8053-90ed10fa3a6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "96e589e9-a2fd-443d-b00f-650fb3c96084")
+		(at 89.44659 81.208481)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW6"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "e345c0cd-2ad3-4fdc-9902-4a8c8421d877")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW6"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "57f269f3-b69a-4eb8-b398-d0231a64cb4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18edce3e-29a0-4d95-be81-b79bce56b3df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b43d39a6-fcdc-4014-bc7a-a290d2341b4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c889609-3280-4c4b-8418-b62fd9bac7c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/66ca52e9-8a21-4974-b3ac-5fdca786ab03")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "4529a3bd-62ce-4c1d-9a31-4ccbe17e1bf9")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "7b1ca267-1244-4c02-9af0-6681a86ec1b5")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "941bc9ee-f528-45c2-b4ab-9f195bdf640e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "ae5687ff-6f31-4eb8-9c57-e8ea4ec91a4e")
+		(at 89.44659 64.208681 180)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW1"
+			(at 0 -1.905 0)
+			(layer "F.Fab")
+			(uuid "144f338d-3968-458f-a442-0d5f95c26bc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW1"
+			(at 0 1.778 0)
+			(layer "F.Fab")
+			(uuid "d503f727-84d0-45c4-89b7-74f599565359")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a6fcad9c-ab06-476c-9964-4ed8a3b24a22")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5051157d-e43e-4d7a-9616-0e95bfd6bd92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1c6deef1-5a06-4b1f-beb9-c0f1c55aa828")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/b7e1808b-86af-4d37-ac86-c9ba207ba7be")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "35b69171-075f-4980-8bf1-6a0735e926ca")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "543105f7-43af-47e0-b021-22b699fc9742")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "df1803d8-035a-4507-8e6f-aaba349b3d32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "b9da57be-9da3-4d61-96de-7d3a85120777")
+		(at 162.64579 98.748281)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW15"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "4483791a-74b2-475f-8d5c-df183be18f04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW15"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "d0173d3e-fd50-45e5-8574-dbd475de444c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e4bb040-4de5-4f0d-a185-3c9e169e45f5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bf4c93a-6e24-4e5f-b47f-85d295cc1e81")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2b237b5-50e4-4ea3-a57b-7b2a20f0c214")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/d016e514-e6b8-4344-aaa3-6ba30b73b708")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "76937d51-9d51-4793-893a-d76ff649526b")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "e3a830df-3da5-4443-b4b3-2a93cd79b4f4")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0b1107b4-38e3-4b2f-a0d6-84fc6d5b45fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:MountingHole_2.2mm_M2_cutout"
+		(layer "F.Cu")
+		(uuid "bc0e0772-8425-4005-8a66-acc829f80ed8")
+		(at 155.194 53.848)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "TH2"
+			(at 0 -3.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9cd39980-1245-4b8a-a4d0-f3507ed964f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "HOLE"
+			(at 0 3.2 0)
+			(layer "F.Fab")
+			(uuid "ef88fac1-25f9-455d-9325-aaca883132cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d828964b-5fd6-4c0c-a54e-3db25daec2e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0997f861-f6f9-4dfa-891c-07ad1c0478a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fb92442-2691-4d7d-9339-3aa70a995f11")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/92aabcfd-0da0-4598-a239-c33e842971c6")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 1.1 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "790c1592-6e37-42c4-8b42-ed9fbcafdc1a")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "322b991a-a71b-4ef3-8409-8adf48ccbbbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "cd8050bb-ead2-4cc4-91b1-baafcaa89e6c")
+		(at 147.793733 120.065297 172.5)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW16"
+			(at 0 -1.904999 -7.5)
+			(layer "F.Fab")
+			(uuid "c3d6f7ca-c5da-49cb-87da-88cb3d3af649")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW16"
+			(at 0 1.778 -7.5)
+			(layer "F.Fab")
+			(uuid "108bcf8d-8134-4a12-a614-978e206a848e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 172.5)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "910fc9fe-5584-4ca6-956e-40c100fa5cd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 172.5)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a22af09-e3ab-4304-8f63-9beb9342e332")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 172.5)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e0f1fde-5d38-4d15-882f-ca8a02640360")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/e9dd6226-540f-4bdf-829f-532091874ede")
+		(attr smd)
+		(fp_poly
+			(pts
+				(xy -7 -7) (xy 7 -7) (xy 7 7) (xy -7 7)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "e6d9cc8f-99fc-4165-a0a9-5aa5cb48ce6e")
+		)
+		(fp_poly
+			(pts
+				(xy -9 -8.5) (xy 9 -8.5) (xy 9 8.5) (xy -9 8.5)
+			)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "8f04c1af-fa3f-4808-bb46-26727dd48802")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 172.5)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5ff2f20e-d315-4981-a547-b605cae8c1d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "e70269aa-8ba9-4acf-b1c1-d8e34df04b5f")
+		(at 162.64579 64.748281 180)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW5"
+			(at 0 -1.905 0)
+			(layer "F.Fab")
+			(uuid "4f127365-c07a-4b77-9b52-2d41cfd8c403")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW5"
+			(at 0 1.778 0)
+			(layer "F.Fab")
+			(uuid "698ddd60-3e7a-4600-8fcf-c06d8a29d198")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5687aa4-4125-4ef8-9d4d-a21ffe7c42ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d33224a-7000-4a9f-9c55-cd082d4bc8f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "426e943c-9dbd-4697-8625-2f911dbdf694")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/2b661976-3b98-4e04-938d-2e7050215b69")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "f91b3dde-52df-4989-993d-92747bae2598")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "9e1a5b8a-3675-4cc9-a2ad-03c9b7f551b4")
+		)
+	)
+	(footprint "jw_custom_footprints:Kailh_socket_PG1350_v1_reversible_cutout_switch_plate"
+		(layer "F.Cu")
+		(uuid "f447ecf6-ff87-458b-8cc3-504a25e8d4e4")
+		(at 162.64579 81.748281)
+		(descr "Kailh \"Choc\" PG1350 v1 keyswitch reversible socket mount")
+		(tags "kailh,choc")
+		(property "Reference" "SW10"
+			(at 0 -1.905 180)
+			(layer "F.Fab")
+			(uuid "90e81ea3-f2aa-4693-8e70-c9dd2e68302a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "SW10"
+			(at 0 1.778 180)
+			(layer "F.Fab")
+			(uuid "2ac55008-3c93-498d-92fc-47e41e9ae276")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "jw_custom_footprint:Kailh_Choc_PG1350_Hotswap_reversible"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8949de1-a5f1-4be9-bb21-9a1047386e51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92a1e540-1e03-453c-9db5-c85aca19d874")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0371990-d25a-46f5-b7e3-4f4912f26ce6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/250de5ba-46dc-4fb0-b514-c7acaedd4c2a")
+		(attr smd)
+		(fp_rect
+			(start -7 -7)
+			(end 7 7)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill none)
+			(layer "Edge.Cuts")
+			(uuid "a9f5aec3-c90e-4bed-a80a-23c5e4b1fd1f")
+		)
+		(fp_rect
+			(start -9 -8.5)
+			(end 9 8.5)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(fill none)
+			(layer "F.Fab")
+			(uuid "feaf6d73-79e4-419b-a967-ad042685c6c3")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 5.7 4.7 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "61f08282-faf4-42d0-9a79-c9a3208cb6b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(gr_circle
+		(center 83.058 58.6084)
+		(end 87.158 58.6084)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "0d676d13-7218-456c-88d6-4c85824332f9")
+	)
+	(gr_circle
+		(center 171.8712 132.08)
+		(end 175.9712 132.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "887a7bb3-cccf-4d7b-8439-bb200bf5f7cc")
+	)
+	(gr_circle
+		(center 83.0432 106.2228)
+		(end 87.1432 106.2228)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "add62015-41dd-4847-8c7d-04d1eb169a3f")
+	)
+	(gr_circle
+		(center 169.0624 58.6084)
+		(end 173.1624 58.6084)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "c9ba48a1-fa7f-47d0-ae3d-a23e1aa86946")
+	)
+	(gr_line
+		(start 253.8476 157.8356)
+		(end 253.8476 157.8356)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1a7f1c6a-ce80-4b08-ba77-ec9b0544d352")
+	)
+	(gr_line
+		(start 79.904448 109.043881)
+		(end 102.495732 109.043881)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1f333123-0f52-43d6-a59c-ee2cc3b6edd1")
+	)
+	(gr_line
+		(start 136.660987 129.470559)
+		(end 155.433456 131.942002)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2493ad44-5bc1-4991-89ca-7eb1d9f2b02e")
+	)
+	(gr_line
+		(start 173.128112 56.858591)
+		(end 173.128112 105.17205)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2494bb38-6540-4526-9330-b0585cc92971")
+	)
+	(gr_arc
+		(start 79.904448 109.043881)
+		(mid 79.197341 108.750988)
+		(end 78.904448 108.043881)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "309f6ef0-8f70-4f33-9c96-d8085bb4a4d7")
+	)
+	(gr_line
+		(start 155.561749 131.967521)
+		(end 173.85103 136.868119)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3d4e526b-51b8-4bb0-83d1-2fb361d99211")
+	)
+	(gr_arc
+		(start 171.8564 55.1434)
+		(mid 172.77909 55.788325)
+		(end 173.128112 56.858591)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4184fe18-d1ca-4803-b681-a2e62b5ea2e9")
+	)
+	(gr_arc
+		(start 102.626258 109.035326)
+		(mid 102.561135 109.041742)
+		(end 102.495732 109.043881)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5e7bbdaf-24c9-47dc-b13f-b79b109374fd")
+	)
+	(gr_line
+		(start 181.53479 108.191939)
+		(end 173.869293 106.137976)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "62de4747-5631-485b-a6ad-da52a637a063")
+	)
+	(gr_arc
+		(start 106.062408 107.574319)
+		(mid 105.864294 108.313568)
+		(end 105.201489 108.69629)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "70c432d9-e782-4c9a-82f2-a91cd01f9bb5")
+	)
+	(gr_arc
+		(start 105.725668 105.016526)
+		(mid 105.965272 104.226649)
+		(end 106.717112 103.886)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "74e98f8c-4ec9-4fc6-9eb2-50c1fbcc694e")
+	)
+	(gr_arc
+		(start 80.164858 55.2196)
+		(mid 126.004242 47.495858)
+		(end 171.8564 55.1434)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7adf0848-92f4-4dd4-8524-01a5573d3383")
+	)
+	(gr_arc
+		(start 173.869293 106.137976)
+		(mid 173.334733 105.780819)
+		(end 173.128112 105.17205)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8160d028-49af-4380-9091-51c92679098e")
+	)
+	(gr_line
+		(start 106.717112 103.886)
+		(end 137.807152 103.888552)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "886f9765-5084-4fec-b798-dbf6500d8839")
+	)
+	(gr_line
+		(start 106.062408 107.574319)
+		(end 105.725668 105.016526)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8d268771-9b77-44b9-8401-23b57fce8e6b")
+	)
+	(gr_arc
+		(start 175.075775 136.161012)
+		(mid 174.609851 136.768249)
+		(end 173.85103 136.868119)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8dbe52f3-c193-42ce-b30f-949857379c37")
+	)
+	(gr_line
+		(start 138.877472 111.634681)
+		(end 151.42539 111.634681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "94a59fbb-eef2-401f-a6c3-4dcc79f1ba5e")
+	)
+	(gr_arc
+		(start 155.433456 131.942002)
+		(mid 155.49802 131.952662)
+		(end 155.561749 131.967521)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a66f2122-6775-478f-af23-3c32316f5ed3")
+	)
+	(gr_line
+		(start 102.626258 109.035326)
+		(end 105.201489 108.69629)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b0e05d2a-8413-4216-b02f-83712181bc93")
+	)
+	(gr_arc
+		(start 151.42539 102.998681)
+		(mid 151.708233 103.115838)
+		(end 151.82539 103.398681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b1102e3b-44ca-4401-ba6f-f2d2bf5cc987")
+	)
+	(gr_line
+		(start 143.95139 102.998681)
+		(end 151.42539 102.998681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b4f13b4d-7145-4e79-b6d8-8b7ad04ce5ed")
+	)
+	(gr_line
+		(start 78.904448 56.858591)
+		(end 78.904448 108.043881)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ba3db4dc-8e79-4e56-a8d0-211538edf876")
+	)
+	(gr_line
+		(start 151.82539 111.234681)
+		(end 151.82539 103.398681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bf810ec0-b84e-47ee-9c18-8e39cdeeb313")
+	)
+	(gr_arc
+		(start 136.660987 129.470559)
+		(mid 135.99816 129.087876)
+		(end 135.800068 128.348588)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c3f6d662-0e11-44b6-b838-1da161b1b49d")
+	)
+	(gr_arc
+		(start 181.53479 108.191939)
+		(mid 182.141938 108.657764)
+		(end 182.241957 109.416458)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c486be42-73a1-4fec-8365-e35ffdf167ed")
+	)
+	(gr_line
+		(start 182.241957 109.416458)
+		(end 175.075775 136.161012)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c541881c-e7cf-47c0-905e-a0af4dea72a4")
+	)
+	(gr_line
+		(start 137.886028 112.504155)
+		(end 135.800068 128.348588)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c839d8ab-dc7b-455b-b2a9-2b7fcb5c23b4")
+	)
+	(gr_arc
+		(start 78.904448 56.858591)
+		(mid 79.253843 55.823144)
+		(end 80.164858 55.2196)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d05d5026-2f8c-4b6f-882c-18c627d9a3b3")
+	)
+	(gr_arc
+		(start 151.82539 111.234681)
+		(mid 151.708239 111.517532)
+		(end 151.42539 111.634681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d541e89a-61be-4459-8086-6a422974bcb7")
+	)
+	(gr_arc
+		(start 137.886028 112.504155)
+		(mid 138.21813 111.882842)
+		(end 138.877472 111.634681)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e8f6dba4-cb6c-44c9-8ccf-65e6a91a20db")
+	)
+	(gr_line
+		(start 137.952264 103.877979)
+		(end 143.951383 102.998632)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ea8e8e77-6778-48dc-b8c8-5217d4d8334b")
+	)
+	(gr_line
+		(start 253.8476 157.8356)
+		(end 253.8476 157.8356)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ec00a668-b2bb-4b3f-98a7-8119ab3a4872")
+	)
+	(gr_arc
+		(start 137.952264 103.877979)
+		(mid 137.879901 103.88591)
+		(end 137.807152 103.888552)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fea97f7b-cd86-4432-9fec-600d8da55d09")
+	)
+)
