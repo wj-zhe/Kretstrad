@@ -539,7 +539,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 2,
     "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
