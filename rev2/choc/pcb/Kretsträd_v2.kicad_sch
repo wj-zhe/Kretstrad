@@ -1543,242 +1543,242 @@
 		)
 	)
 	(junction
-		(at 234.95 43.18)
+		(at 205.74 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07cd1ddf-c44b-472d-9aa7-f9d91057cae2")
 	)
 	(junction
-		(at 255.27 43.18)
+		(at 226.06 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0b61cefd-5cea-489c-93c7-21e6531b9901")
 	)
 	(junction
-		(at 255.27 76.2)
+		(at 226.06 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0ec2eb27-ad1d-46dd-a416-3b90b23328ec")
 	)
 	(junction
-		(at 48.26 121.92)
+		(at 64.77 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fd093ce-f12d-4eea-a553-8ee0511c860a")
 	)
 	(junction
-		(at 38.1 116.84)
+		(at 54.61 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12754daa-b17c-49b5-962b-a19b316df3de")
 	)
 	(junction
-		(at 199.39 52.07)
+		(at 170.18 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fa05652-91bd-4995-b8ab-33fdd78e9588")
 	)
 	(junction
-		(at 234.95 76.2)
+		(at 205.74 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23a59e81-2b2a-42b0-be5b-90aade68a2b4")
 	)
 	(junction
-		(at 255.27 92.71)
+		(at 226.06 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23f13b15-0294-4573-9bdc-002e4c958bb3")
 	)
 	(junction
-		(at 214.63 76.2)
+		(at 185.42 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2478333e-4d88-48b5-831d-238e351e069d")
 	)
 	(junction
-		(at 219.71 35.56)
+		(at 190.5 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b2ac007-2bdf-4e14-8b9f-d67a39fd778c")
 	)
 	(junction
-		(at 255.27 59.69)
+		(at 226.06 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31cee07d-c9d8-432a-ba57-26b7a55c297a")
 	)
 	(junction
-		(at 240.03 52.07)
+		(at 210.82 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3ad9187c-1126-4909-8a1c-30614f8e0138")
 	)
 	(junction
-		(at 67.31 149.86)
+		(at 83.82 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c7c3480-fefc-4050-a67d-e047b1a477e5")
 	)
 	(junction
-		(at 158.75 35.56)
+		(at 129.54 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4082e445-8b82-4cdc-91c2-0e0b1248ea4e")
 	)
 	(junction
-		(at 219.71 68.58)
+		(at 190.5 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "42bbca17-4d6f-4613-b8e3-ccac4053e4da")
 	)
 	(junction
-		(at 158.75 52.07)
+		(at 129.54 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "438d870a-56f6-4d87-987a-cd4d7d8c22d9")
 	)
 	(junction
-		(at 194.31 59.69)
+		(at 165.1 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e67186e-6979-4969-b524-bb60da70a49f")
 	)
 	(junction
-		(at 179.07 35.56)
+		(at 149.86 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "65fd8d30-8de6-49b8-a020-7642ec8e160e")
 	)
 	(junction
-		(at 194.31 76.2)
+		(at 165.1 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a089202-caf2-4805-8a85-581cf815cb24")
 	)
 	(junction
-		(at 219.71 52.07)
+		(at 190.5 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "916ffb5e-a8a1-400d-beb9-455a4b714339")
 	)
 	(junction
-		(at 240.03 35.56)
+		(at 210.82 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "938cf94e-b921-47c4-9b4e-bd91ac3efce2")
 	)
 	(junction
-		(at 179.07 52.07)
+		(at 149.86 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a9ca5ac4-dcad-4dca-8e13-add2d7d7ba80")
 	)
 	(junction
-		(at 199.39 35.56)
+		(at 170.18 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af7fe1fe-a0f7-44ab-85d0-0a9ad053f2b7")
 	)
 	(junction
-		(at 214.63 43.18)
+		(at 185.42 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b57f3db1-6069-4344-8c63-370bd0430359")
 	)
 	(junction
-		(at 74.93 120.65)
+		(at 91.44 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2f0806d-4b51-49ae-8e60-44f515115e12")
 	)
 	(junction
-		(at 64.77 115.57)
+		(at 81.28 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6395715-ab2c-40c6-be42-e33fe4ef04ee")
 	)
 	(junction
-		(at 69.85 149.86)
+		(at 86.36 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca621a5a-7d97-4805-92bd-077d3d6d9ab0")
 	)
 	(junction
-		(at 240.03 68.58)
+		(at 210.82 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d68c2050-bfcf-4a8d-bdcf-3a91fdc88450")
 	)
 	(junction
-		(at 234.95 59.69)
+		(at 205.74 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efd0ed07-bdc0-4c18-973a-a40fcc61b12c")
 	)
 	(junction
-		(at 214.63 59.69)
+		(at 185.42 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f17b4b3a-29e9-4d2f-971b-4e36e12c2a45")
 	)
 	(junction
-		(at 194.31 43.18)
+		(at 165.1 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fac8434e-6834-4020-9f83-bed340322162")
 	)
 	(no_connect
-		(at 57.15 38.1)
+		(at 73.66 27.94)
 		(uuid "0bb6bbdc-d121-4d54-97ca-2824ad4ced3e")
 	)
 	(no_connect
-		(at 74.93 113.03)
+		(at 91.44 102.87)
 		(uuid "22cf4272-f325-46a5-9dac-078ef09927c0")
 	)
 	(no_connect
-		(at 48.26 129.54)
+		(at 64.77 119.38)
 		(uuid "2e07edd4-3513-42be-914c-012ab28f0b65")
 	)
 	(no_connect
-		(at 74.93 58.42)
+		(at 91.44 48.26)
 		(uuid "3780e521-3ef7-41a1-a53d-46a36d31aeaa")
 	)
 	(no_connect
-		(at 62.23 82.55)
+		(at 78.74 72.39)
 		(uuid "3f6df380-1634-419e-9c32-5c8457fd9094")
 	)
 	(no_connect
-		(at 74.93 53.34)
+		(at 91.44 43.18)
 		(uuid "4624af41-93b6-4e2c-8a91-d6d23dae488c")
 	)
 	(no_connect
-		(at 74.93 55.88)
+		(at 91.44 45.72)
 		(uuid "531b542a-3c25-4f4c-a348-1f92d19186c0")
 	)
 	(no_connect
-		(at 59.69 38.1)
+		(at 76.2 27.94)
 		(uuid "6a364dda-36a4-4ca7-a420-9df2bd1365b8")
 	)
 	(no_connect
-		(at 64.77 82.55)
+		(at 81.28 72.39)
 		(uuid "8f2787a4-a5a7-40be-ae27-e9151ea92730")
 	)
 	(no_connect
-		(at 74.93 48.26)
+		(at 91.44 38.1)
 		(uuid "ea1d18a4-4509-44a0-b963-1e4bb31fcadb")
 	)
 	(no_connect
-		(at 48.26 114.3)
+		(at 64.77 104.14)
 		(uuid "f85de266-a11a-48b8-b930-cb461fe8f283")
 	)
 	(no_connect
-		(at 74.93 128.27)
+		(at 91.44 118.11)
 		(uuid "fecb348e-9556-4b92-8075-5afd3ad0ade1")
 	)
 	(wire
 		(pts
-			(xy 199.39 35.56) (xy 199.39 52.07)
+			(xy 170.18 34.29) (xy 170.18 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1788,7 +1788,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 116.84) (xy 38.1 127)
+			(xy 54.61 106.68) (xy 54.61 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1798,7 +1798,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 29.21) (xy 158.75 35.56)
+			(xy 129.54 27.94) (xy 129.54 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1808,7 +1808,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 76.2) (xy 214.63 76.2)
+			(xy 165.1 74.93) (xy 185.42 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1818,7 +1818,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 59.69) (xy 194.31 59.69)
+			(xy 144.78 58.42) (xy 165.1 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1828,7 +1828,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 43.18) (xy 267.97 43.18)
+			(xy 226.06 41.91) (xy 238.76 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1838,7 +1838,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 35.56) (xy 219.71 52.07)
+			(xy 190.5 34.29) (xy 190.5 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1848,7 +1848,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 116.84) (xy 38.1 116.84)
+			(xy 53.34 106.68) (xy 54.61 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1858,7 +1858,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 115.57) (xy 64.77 125.73)
+			(xy 81.28 105.41) (xy 81.28 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1868,7 +1868,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 68.58) (xy 240.03 85.09)
+			(xy 210.82 67.31) (xy 210.82 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1878,7 +1878,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 118.11) (xy 74.93 120.65)
+			(xy 91.44 107.95) (xy 91.44 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1888,7 +1888,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 52.07) (xy 219.71 68.58)
+			(xy 190.5 50.8) (xy 190.5 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1898,7 +1898,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 149.86) (xy 67.31 149.86)
+			(xy 81.28 139.7) (xy 83.82 139.7)
 		)
 		(stroke
 			(width 0)
@@ -1908,7 +1908,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 43.18) (xy 214.63 43.18)
+			(xy 165.1 41.91) (xy 185.42 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1918,7 +1918,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 27.94) (xy 240.03 35.56)
+			(xy 210.82 26.67) (xy 210.82 34.29)
 		)
 		(stroke
 			(width 0)
@@ -1928,7 +1928,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 59.69) (xy 267.97 59.69)
+			(xy 226.06 58.42) (xy 238.76 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1938,7 +1938,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 53.34) (xy 81.28 50.8)
+			(xy 97.79 43.18) (xy 97.79 40.64)
 		)
 		(stroke
 			(width 0)
@@ -1948,7 +1948,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 76.2) (xy 255.27 76.2)
+			(xy 205.74 74.93) (xy 226.06 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1958,7 +1958,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 35.56) (xy 179.07 52.07)
+			(xy 149.86 34.29) (xy 149.86 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1968,7 +1968,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 59.69) (xy 214.63 59.69)
+			(xy 165.1 58.42) (xy 185.42 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1978,7 +1978,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 142.24) (xy 50.8 147.32)
+			(xy 67.31 132.08) (xy 67.31 137.16)
 		)
 		(stroke
 			(width 0)
@@ -1988,7 +1988,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 35.56) (xy 240.03 52.07)
+			(xy 210.82 34.29) (xy 210.82 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1998,7 +1998,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 82.55) (xy 59.69 88.9)
+			(xy 76.2 72.39) (xy 76.2 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2008,7 +2008,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 27.94) (xy 179.07 35.56)
+			(xy 149.86 26.67) (xy 149.86 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2018,7 +2018,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 35.56) (xy 76.2 35.56)
+			(xy 81.28 25.4) (xy 92.71 25.4)
 		)
 		(stroke
 			(width 0)
@@ -2028,7 +2028,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 35.56) (xy 76.2 38.1)
+			(xy 92.71 25.4) (xy 92.71 27.94)
 		)
 		(stroke
 			(width 0)
@@ -2038,7 +2038,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 38.1) (xy 64.77 35.56)
+			(xy 81.28 27.94) (xy 81.28 25.4)
 		)
 		(stroke
 			(width 0)
@@ -2048,7 +2048,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 59.69) (xy 255.27 59.69)
+			(xy 205.74 58.42) (xy 226.06 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2058,7 +2058,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 59.69) (xy 234.95 59.69)
+			(xy 185.42 58.42) (xy 205.74 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2068,7 +2068,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 35.56) (xy 158.75 52.07)
+			(xy 129.54 34.29) (xy 129.54 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2078,7 +2078,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 27.94) (xy 219.71 35.56)
+			(xy 190.5 26.67) (xy 190.5 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2088,7 +2088,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 92.71) (xy 267.97 92.71)
+			(xy 226.06 91.44) (xy 238.76 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2098,7 +2098,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 27.94) (xy 199.39 35.56)
+			(xy 170.18 26.67) (xy 170.18 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2108,7 +2108,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 43.18) (xy 194.31 43.18)
+			(xy 144.78 41.91) (xy 165.1 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2118,7 +2118,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 120.65) (xy 74.93 123.19)
+			(xy 91.44 110.49) (xy 91.44 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2128,7 +2128,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 52.07) (xy 240.03 68.58)
+			(xy 210.82 50.8) (xy 210.82 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2138,7 +2138,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 52.07) (xy 199.39 68.58)
+			(xy 170.18 50.8) (xy 170.18 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2148,7 +2148,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 121.92) (xy 48.26 124.46)
+			(xy 64.77 111.76) (xy 64.77 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2158,7 +2158,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 68.58) (xy 219.71 85.09)
+			(xy 190.5 67.31) (xy 190.5 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2168,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 76.2) (xy 234.95 76.2)
+			(xy 185.42 74.93) (xy 205.74 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2178,7 +2178,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 50.8) (xy 74.93 50.8)
+			(xy 97.79 40.64) (xy 91.44 40.64)
 		)
 		(stroke
 			(width 0)
@@ -2188,7 +2188,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 149.86) (xy 71.12 149.86)
+			(xy 86.36 139.7) (xy 87.63 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2198,7 +2198,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 76.2) (xy 194.31 76.2)
+			(xy 144.78 74.93) (xy 165.1 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2208,7 +2208,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 119.38) (xy 48.26 121.92)
+			(xy 64.77 109.22) (xy 64.77 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2218,7 +2218,7 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 43.18) (xy 234.95 43.18)
+			(xy 185.42 41.91) (xy 205.74 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2228,7 +2228,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 52.07) (xy 179.07 68.58)
+			(xy 149.86 50.8) (xy 149.86 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2238,7 +2238,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 52.07) (xy 158.75 68.58)
+			(xy 129.54 50.8) (xy 129.54 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2248,7 +2248,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 115.57) (xy 64.77 115.57)
+			(xy 80.01 105.41) (xy 81.28 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2258,7 +2258,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 43.18) (xy 255.27 43.18)
+			(xy 205.74 41.91) (xy 226.06 41.91)
 		)
 		(stroke
 			(width 0)
@@ -2268,7 +2268,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 120.65) (xy 77.47 120.65)
+			(xy 91.44 110.49) (xy 93.98 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2278,7 +2278,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 92.71) (xy 255.27 92.71)
+			(xy 205.74 91.44) (xy 226.06 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2288,7 +2288,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 76.2) (xy 267.97 76.2)
+			(xy 226.06 74.93) (xy 238.76 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2298,7 +2298,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 121.92) (xy 50.8 121.92)
+			(xy 64.77 111.76) (xy 67.31 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2307,8 +2307,8 @@
 		(uuid "fd835807-706a-4852-a524-3f08ec454e8c")
 	)
 	(rectangle
-		(start 152.4 19.05)
-		(end 278.13 96.52)
+		(start 123.19 17.78)
+		(end 248.92 95.25)
 		(stroke
 			(width 0)
 			(type default)
@@ -2319,8 +2319,8 @@
 		(uuid b052548a-966a-46e6-bc19-413e4c9086d5)
 	)
 	(rectangle
-		(start 23.114 97.79)
-		(end 88.265 160.655)
+		(start 39.624 87.63)
+		(end 104.775 150.495)
 		(stroke
 			(width 0)
 			(type default)
@@ -2332,7 +2332,7 @@
 	)
 	(text "Keyswitches"
 		(exclude_from_sim no)
-		(at 171.45 87.63 0)
+		(at 142.24 86.36 0)
 		(effects
 			(font
 				(size 2.9972 2.9972)
@@ -2343,7 +2343,7 @@
 	)
 	(text "Battery"
 		(exclude_from_sim no)
-		(at 25.4 105.41 0)
+		(at 41.91 95.25 0)
 		(effects
 			(font
 				(size 2.9972 2.9972)
@@ -2354,7 +2354,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 267.97 92.71 0)
+		(at 238.76 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2364,7 +2364,7 @@
 		)
 		(uuid "018ad217-058c-4a2e-884f-04db6205241d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 401.32 207.01 0)
+			(at 372.11 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2375,7 +2375,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 71.12 149.86 0)
+		(at 87.63 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2385,7 +2385,7 @@
 		)
 		(uuid "0799d54e-8daf-47ba-9270-764393ad0fa7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.2421 149.86 0)
+			(at 93.7521 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2397,7 +2397,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 267.97 59.69 0)
+		(at 238.76 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2407,7 +2407,7 @@
 		)
 		(uuid "0a9e384a-35e9-4bfa-9abc-c2050c1e2005")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 401.32 140.97 0)
+			(at 372.11 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2418,7 +2418,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 33.02 68.58 180)
+		(at 49.53 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2428,7 +2428,7 @@
 		)
 		(uuid "15fe8f3d-6077-4e0e-81d0-8ec3f4538981")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.9634 68.58 0)
+			(at 43.4734 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2440,7 +2440,7 @@
 	)
 	(global_label "BT+"
 		(shape input)
-		(at 64.77 149.86 180)
+		(at 81.28 139.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2450,7 +2450,7 @@
 		)
 		(uuid "1b012919-2af8-4ee6-8ca7-d0ea300ee41e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.7084 149.86 0)
+			(at 75.2184 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2462,7 +2462,7 @@
 	)
 	(global_label "BT+"
 		(shape input)
-		(at 63.5 115.57 180)
+		(at 80.01 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2472,7 +2472,7 @@
 		)
 		(uuid "2d6db773-22ea-4b60-a1a9-393fe75e31b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.22 -97.79 0)
+			(at 125.73 -107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2483,7 +2483,7 @@
 	)
 	(global_label "BAT"
 		(shape input)
-		(at 50.8 142.24 0)
+		(at 67.31 132.08 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2493,7 +2493,7 @@
 		)
 		(uuid "31935dea-6bf2-4d41-81e5-8e0a4a841f0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.4572 142.24 0)
+			(at 72.9672 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +2505,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 33.02 63.5 180)
+		(at 49.53 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2515,7 +2515,7 @@
 		)
 		(uuid "34d03349-6d78-4165-a683-2d8b76f2bae8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.9634 63.5 0)
+			(at 43.4734 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2527,7 +2527,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 33.02 71.12 180)
+		(at 49.53 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2537,7 +2537,7 @@
 		)
 		(uuid "35a9f71f-ba35-47f6-814e-4106ac36c51e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.9634 71.12 0)
+			(at 43.4734 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2549,7 +2549,7 @@
 	)
 	(global_label "reset"
 		(shape input)
-		(at 62.23 38.1 90)
+		(at 78.74 27.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2559,7 +2559,7 @@
 		)
 		(uuid "5d5599e8-f8dc-4110-9122-587dc3c77dc8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 31.4749 90)
+			(at 78.74 21.3149 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2571,7 +2571,7 @@
 	)
 	(global_label "row0"
 		(shape input)
-		(at 267.97 43.18 0)
+		(at 238.76 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2581,7 +2581,7 @@
 		)
 		(uuid "5f400403-d05e-45c8-ac44-9b9e52e71bfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 401.32 107.95 0)
+			(at 372.11 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +2592,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 199.39 27.94 90)
+		(at 170.18 26.67 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2602,7 +2602,7 @@
 		)
 		(uuid "69ff28e0-7591-4420-9ffb-21299b43142f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -1.27 -29.21 0)
+			(at -30.48 -30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2613,7 +2613,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 179.07 27.94 90)
+		(at 149.86 26.67 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2623,7 +2623,7 @@
 		)
 		(uuid "728396ea-8a98-4cb7-ba1f-78af3cbbd358")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at -41.91 -29.21 0)
+			(at -71.12 -30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2634,7 +2634,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 33.02 55.88 180)
+		(at 49.53 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2644,7 +2644,7 @@
 		)
 		(uuid "7a4ce4b3-518a-4819-b8b2-5127b3347c64")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.6224 55.88 0)
+			(at 43.1324 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2656,7 +2656,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 33.02 60.96 180)
+		(at 49.53 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2666,7 +2666,7 @@
 		)
 		(uuid "7e0a03ae-d054-4f76-a131-5c09b8dc1636")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.6224 60.96 0)
+			(at 43.1324 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2678,7 +2678,7 @@
 	)
 	(global_label "BAT"
 		(shape input)
-		(at 57.15 82.55 270)
+		(at 73.66 72.39 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2688,7 +2688,7 @@
 		)
 		(uuid "88a34172-7dff-46da-9d96-ffd457866ffa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.15 88.2072 90)
+			(at 73.66 78.0472 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,7 +2700,7 @@
 	)
 	(global_label "row0"
 		(shape input)
-		(at 33.02 58.42 180)
+		(at 49.53 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2710,7 +2710,7 @@
 		)
 		(uuid "9193c41e-d425-447d-b95c-6986d66ea01c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.6224 58.42 0)
+			(at 43.1324 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2722,7 @@
 	)
 	(global_label "BAT"
 		(shape input)
-		(at 50.8 121.92 0)
+		(at 67.31 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2732,7 +2732,7 @@
 		)
 		(uuid "95708e8c-32c1-465c-85e2-b184b8dd0566")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.4572 121.92 0)
+			(at 72.9672 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2744,7 +2744,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 74.93 60.96 0)
+		(at 91.44 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2754,7 +2754,7 @@
 		)
 		(uuid "9b3c58a7-a9b9-4498-abc0-f9f43e4f0292")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.9866 60.96 0)
+			(at 97.4966 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2766,7 +2766,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 74.93 63.5 0)
+		(at 91.44 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2776,7 +2776,7 @@
 		)
 		(uuid "a6b7df29-bcf8-46a9-b623-7eaac47f5110")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.3276 63.5 0)
+			(at 97.8376 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2788,7 +2788,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 219.71 27.94 90)
+		(at 190.5 26.67 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2798,7 +2798,7 @@
 		)
 		(uuid "ab63a92a-7d13-487e-9a22-1a448b083608")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.37 -29.21 0)
+			(at 10.16 -30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2809,7 +2809,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 240.03 27.94 90)
+		(at 210.82 26.67 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2819,7 +2819,7 @@
 		)
 		(uuid "b0adffae-e6f4-4e39-8307-2f239d02be25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.01 -29.21 0)
+			(at 50.8 -30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2830,7 +2830,7 @@
 	)
 	(global_label "BT+"
 		(shape input)
-		(at 36.83 116.84 180)
+		(at 53.34 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2840,7 +2840,7 @@
 		)
 		(uuid "c2b01780-4a57-48e7-8f31-6e3eb4755128")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.55 -96.52 0)
+			(at 99.06 -106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,7 +2851,7 @@
 	)
 	(global_label "RAW"
 		(shape input)
-		(at 77.47 48.26 0)
+		(at 93.98 38.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2861,7 +2861,7 @@
 		)
 		(uuid "dbb64115-0da9-4205-9fa0-4d7fdbb1b57d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.2423 48.26 0)
+			(at 99.7523 38.1 0)
 			(effects
 				(font
 					(size 1.1938 1.1938)
@@ -2873,7 +2873,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 33.02 66.04 180)
+		(at 49.53 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2883,7 +2883,7 @@
 		)
 		(uuid "e65b62be-e01b-4688-a999-1d1be370c4ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.9634 66.04 0)
+			(at 43.4734 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2895,7 +2895,7 @@
 	)
 	(global_label "BAT"
 		(shape input)
-		(at 77.47 120.65 0)
+		(at 93.98 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2905,7 +2905,7 @@
 		)
 		(uuid "eabcfc66-01ac-4444-a28b-e074d0ff1861")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.1272 120.65 0)
+			(at 99.6372 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2917,7 +2917,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 158.75 29.21 90)
+		(at 129.54 27.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2927,7 +2927,7 @@
 		)
 		(uuid "f06a9ec6-5a3f-4f26-bfeb-e63815d184db")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.6706 22.7734 90)
+			(at 129.4606 21.5034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2939,7 +2939,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 267.97 76.2 0)
+		(at 238.76 74.93 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2949,7 +2949,7 @@
 		)
 		(uuid "f126a146-3310-48bd-8ccf-684cd7169d4f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 401.32 173.99 0)
+			(at 372.11 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3220,7 +3220,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Female")
-		(at 69.85 154.94 270)
+		(at 86.36 144.78 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3228,7 +3228,7 @@
 		(dnp no)
 		(uuid "00c7c971-c7d3-4542-8a62-de87f78adc8e")
 		(property "Reference" "J1"
-			(at 64.516 154.178 90)
+			(at 81.026 144.018 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +3236,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 71.374 156.972 90)
+			(at 87.884 146.812 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3244,7 +3244,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal"
-			(at 69.85 154.94 0)
+			(at 86.36 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3253,7 +3253,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 154.94 0)
+			(at 86.36 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3262,7 +3262,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 154.94 0)
+			(at 86.36 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,7 +3287,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 234.95 72.39 90)
+		(at 205.74 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3295,7 +3295,7 @@
 		(dnp no)
 		(uuid "0bd2e2cc-039b-4c02-bc7c-45a6bae8813c")
 		(property "Reference" "D14"
-			(at 236.9566 71.2216 90)
+			(at 207.7466 69.9516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3304,7 +3304,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 236.9566 73.533 90)
+			(at 207.7466 72.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3313,7 +3313,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 234.95 72.39 0)
+			(at 205.74 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3322,7 +3322,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 72.39 0)
+			(at 205.74 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3331,7 +3331,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 72.39 0)
+			(at 205.74 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3356,7 +3356,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 43.18 127 0)
+		(at 59.69 116.84 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3365,7 +3365,7 @@
 		(dnp no)
 		(uuid "0bdd413d-be56-4512-b1bf-77c358894823")
 		(property "Reference" "PWR_SW_2"
-			(at 36.83 132.334 0)
+			(at 53.34 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3373,7 +3373,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 36.83 130.0226 0)
+			(at 53.34 119.8626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3381,7 +3381,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 43.18 127 0)
+			(at 59.69 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3390,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 127 0)
+			(at 59.69 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3399,7 +3399,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 127 0)
+			(at 59.69 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3427,7 +3427,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 234.95 88.9 90)
+		(at 205.74 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3435,7 +3435,7 @@
 		(dnp no)
 		(uuid "20d30715-0908-4d58-89c2-0bc004d52476")
 		(property "Reference" "D16"
-			(at 236.9566 87.7316 90)
+			(at 207.7466 86.4616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3444,7 +3444,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 236.9566 90.043 90)
+			(at 207.7466 88.773 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,7 +3453,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 234.95 88.9 0)
+			(at 205.74 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 88.9 0)
+			(at 205.74 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3471,7 +3471,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 88.9 0)
+			(at 205.74 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3496,7 +3496,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 247.65 52.07 0)
+		(at 218.44 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3504,7 +3504,7 @@
 		(dnp no)
 		(uuid "250de5ba-46dc-4fb0-b514-c7acaedd4c2a")
 		(property "Reference" "SW10"
-			(at 247.65 48.26 0)
+			(at 218.44 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3512,7 +3512,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 247.65 54.61 0)
+			(at 218.44 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3521,7 +3521,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 247.65 52.07 0)
+			(at 218.44 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,7 +3530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 52.07 0)
+			(at 218.44 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3538,7 +3538,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 52.07 0)
+			(at 218.44 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3563,7 +3563,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 76.2 38.1 0)
+		(at 92.71 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3571,7 +3571,7 @@
 		(dnp no)
 		(uuid "29665dd8-7c26-47c1-8956-c720b878c1e4")
 		(property "Reference" "#PWR0101"
-			(at 76.2 44.45 0)
+			(at 92.71 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3580,7 +3580,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 41.91 0)
+			(at 92.71 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3588,7 +3588,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 38.1 0)
+			(at 92.71 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3597,7 +3597,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 38.1 0)
+			(at 92.71 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3606,7 +3606,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 76.2 38.1 0)
+			(at 92.71 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,7 +3628,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 247.65 35.56 0)
+		(at 218.44 34.29 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3637,7 +3637,7 @@
 		(dnp no)
 		(uuid "2b661976-3b98-4e04-938d-2e7050215b69")
 		(property "Reference" "SW5"
-			(at 247.65 31.75 0)
+			(at 218.44 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3645,7 +3645,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 247.65 38.1 0)
+			(at 218.44 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3654,7 +3654,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 247.65 35.56 0)
+			(at 218.44 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3663,7 +3663,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 35.56 0)
+			(at 218.44 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3671,7 +3671,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 35.56 0)
+			(at 218.44 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3696,7 +3696,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 81.28 53.34 0)
+		(at 97.79 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3704,7 +3704,7 @@
 		(dnp no)
 		(uuid "32863cae-b7b1-4802-bab1-eb2eef55c82a")
 		(property "Reference" "#PWR0102"
-			(at 81.28 59.69 0)
+			(at 97.79 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3713,7 +3713,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 57.15 0)
+			(at 97.79 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3721,7 +3721,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 53.34 0)
+			(at 97.79 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,7 +3730,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 53.34 0)
+			(at 97.79 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3739,7 +3739,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 81.28 53.34 0)
+			(at 97.79 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3761,7 +3761,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Female")
-		(at 69.85 144.78 270)
+		(at 86.36 134.62 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3770,7 +3770,7 @@
 		(dnp no)
 		(uuid "3a7ff413-92e5-4f8e-848a-4b668678a05a")
 		(property "Reference" "J2"
-			(at 63.5 144.907 90)
+			(at 80.01 134.747 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3779,7 +3779,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 61.087 141.605 90)
+			(at 77.597 131.445 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +3788,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Panelmate_53780-0270_1x02-1MP_P1.25mm_Horizontal"
-			(at 69.85 144.78 0)
+			(at 86.36 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +3797,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 144.78 0)
+			(at 86.36 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,7 +3806,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 144.78 0)
+			(at 86.36 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3831,7 +3831,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 173.99 39.37 90)
+		(at 144.78 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3839,7 +3839,7 @@
 		(dnp no)
 		(uuid "3e0226c0-d9d1-4aab-a3ca-4d7c69c53e58")
 		(property "Reference" "D1"
-			(at 175.9966 38.2016 90)
+			(at 146.7866 36.9316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3848,7 +3848,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 175.9966 40.513 90)
+			(at 146.7866 39.243 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3857,7 +3857,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 173.99 39.37 0)
+			(at 144.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,7 +3866,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 39.37 0)
+			(at 144.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3875,7 +3875,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 39.37 0)
+			(at 144.78 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3900,7 +3900,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 227.33 52.07 0)
+		(at 198.12 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3908,7 +3908,7 @@
 		(dnp no)
 		(uuid "45abf69e-2543-4632-97c5-bee5a388b4f8")
 		(property "Reference" "SW9"
-			(at 227.33 48.26 0)
+			(at 198.12 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,7 +3916,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 227.33 54.61 0)
+			(at 198.12 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3925,7 +3925,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 227.33 52.07 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3934,7 +3934,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 52.07 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3942,7 +3942,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 52.07 0)
+			(at 198.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3967,7 +3967,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 255.27 88.9 90)
+		(at 226.06 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3975,7 +3975,7 @@
 		(dnp no)
 		(uuid "48c6be44-7002-478c-a38d-9aa3e9e0f63d")
 		(property "Reference" "D17"
-			(at 257.2766 87.7316 90)
+			(at 228.0666 86.4616 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3984,7 +3984,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 257.2766 90.043 90)
+			(at 228.0666 88.773 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3993,7 +3993,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 255.27 88.9 0)
+			(at 226.06 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4002,7 +4002,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 88.9 0)
+			(at 226.06 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,7 +4011,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 88.9 0)
+			(at 226.06 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4036,7 +4036,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 255.27 55.88 90)
+		(at 226.06 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4044,7 +4044,7 @@
 		(dnp no)
 		(uuid "48ea30f4-d5be-4a40-96ea-05e58a53292b")
 		(property "Reference" "D10"
-			(at 257.2766 54.7116 90)
+			(at 228.0666 53.4416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4053,7 +4053,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 257.2766 57.023 90)
+			(at 228.0666 55.753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4062,7 +4062,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 255.27 55.88 0)
+			(at 226.06 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4071,7 +4071,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 55.88 0)
+			(at 226.06 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4080,7 +4080,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 55.88 0)
+			(at 226.06 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4105,7 +4105,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 214.63 72.39 90)
+		(at 185.42 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4113,7 +4113,7 @@
 		(dnp no)
 		(uuid "50ab2e6d-f627-469c-baa7-b7262d52b842")
 		(property "Reference" "D13"
-			(at 216.6366 71.2216 90)
+			(at 187.4266 69.9516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4122,7 +4122,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.6366 73.533 90)
+			(at 187.4266 72.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4131,7 +4131,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 214.63 72.39 0)
+			(at 185.42 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4140,7 +4140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 72.39 0)
+			(at 185.42 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4149,7 +4149,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 72.39 0)
+			(at 185.42 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,7 +4174,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 166.37 52.07 0)
+		(at 137.16 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4182,7 +4182,7 @@
 		(dnp no)
 		(uuid "66ca52e9-8a21-4974-b3ac-5fdca786ab03")
 		(property "Reference" "SW6"
-			(at 166.37 48.26 0)
+			(at 137.16 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,7 +4190,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 166.37 54.61 0)
+			(at 137.16 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4199,7 +4199,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 166.37 52.07 0)
+			(at 137.16 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4208,7 +4208,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 52.07 0)
+			(at 137.16 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4216,7 +4216,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 52.07 0)
+			(at 137.16 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4241,7 +4241,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 227.33 35.56 0)
+		(at 198.12 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4249,7 +4249,7 @@
 		(dnp no)
 		(uuid "68609b5c-8fbd-43e9-93ab-9443775366c6")
 		(property "Reference" "SW4"
-			(at 227.33 31.75 0)
+			(at 198.12 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4257,7 +4257,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 227.33 38.1 0)
+			(at 198.12 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4266,7 +4266,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 227.33 35.56 0)
+			(at 198.12 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,7 +4275,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 35.56 0)
+			(at 198.12 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4283,7 +4283,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 35.56 0)
+			(at 198.12 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4368,7 +4368,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 86.36 53.34 0)
+		(at 102.87 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4376,7 +4376,7 @@
 		(dnp no)
 		(uuid "6ac0b99c-8e2c-4997-a37b-27ffe1323da0")
 		(property "Reference" "#PWR0103"
-			(at 86.36 57.15 0)
+			(at 102.87 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4385,7 +4385,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 86.36 49.53 0)
+			(at 102.87 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4393,7 +4393,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 86.36 53.34 0)
+			(at 102.87 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4402,7 +4402,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 53.34 0)
+			(at 102.87 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4411,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 53.34 0)
+			(at 102.87 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4493,7 +4493,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 43.18 116.84 0)
+		(at 59.69 106.68 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4502,7 +4502,7 @@
 		(dnp no)
 		(uuid "6e3b90da-219a-46f1-a8bc-296dc58e93cc")
 		(property "Reference" "PWR_SW_1"
-			(at 38.862 111.76 0)
+			(at 55.372 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4510,7 +4510,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 38.862 109.4486 0)
+			(at 55.372 99.2886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4518,7 +4518,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 43.18 116.84 0)
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4527,7 +4527,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 116.84 0)
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4536,7 +4536,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 116.84 0)
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4624,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 214.63 55.88 90)
+		(at 185.42 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4632,7 +4632,7 @@
 		(dnp no)
 		(uuid "6f46d487-6e94-4279-b305-9675c3e9b410")
 		(property "Reference" "D8"
-			(at 216.6366 54.7116 90)
+			(at 187.4266 53.4416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4641,7 +4641,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.6366 57.023 90)
+			(at 187.4266 55.753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4650,7 +4650,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 214.63 55.88 0)
+			(at 185.42 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4659,7 +4659,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 55.88 0)
+			(at 185.42 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4668,7 +4668,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 55.88 0)
+			(at 185.42 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4693,7 +4693,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 186.69 52.07 0)
+		(at 157.48 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4701,7 +4701,7 @@
 		(dnp no)
 		(uuid "70547b44-4679-43f1-82da-411b3f706476")
 		(property "Reference" "SW7"
-			(at 186.69 48.26 0)
+			(at 157.48 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4709,7 +4709,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 186.69 54.61 0)
+			(at 157.48 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4718,7 +4718,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 186.69 52.07 0)
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4727,7 +4727,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 52.07 0)
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4735,7 +4735,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 52.07 0)
+			(at 157.48 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4760,7 +4760,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 214.63 39.37 90)
+		(at 185.42 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4768,7 +4768,7 @@
 		(dnp no)
 		(uuid "74ce35ba-489e-4822-ac64-02570a2c68ea")
 		(property "Reference" "D3"
-			(at 216.6366 38.2016 90)
+			(at 187.4266 36.9316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4777,7 +4777,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 216.6366 40.513 90)
+			(at 187.4266 39.243 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4786,7 +4786,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 214.63 39.37 0)
+			(at 185.42 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4795,7 +4795,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 214.63 39.37 0)
+			(at 185.42 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4804,7 +4804,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 214.63 39.37 0)
+			(at 185.42 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,7 +4829,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 194.31 72.39 90)
+		(at 165.1 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4837,7 +4837,7 @@
 		(dnp no)
 		(uuid "75569718-c643-4da4-ac20-da50b297ee62")
 		(property "Reference" "D12"
-			(at 196.3166 71.2216 90)
+			(at 167.1066 69.9516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4846,7 +4846,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 196.3166 73.533 90)
+			(at 167.1066 72.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4855,7 +4855,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 194.31 72.39 0)
+			(at 165.1 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4864,7 +4864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 72.39 0)
+			(at 165.1 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4873,7 +4873,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 72.39 0)
+			(at 165.1 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4898,7 +4898,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 207.01 52.07 0)
+		(at 177.8 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4906,7 +4906,7 @@
 		(dnp no)
 		(uuid "81092086-01e6-4b6d-831b-d68158a335a7")
 		(property "Reference" "SW8"
-			(at 207.01 48.26 0)
+			(at 177.8 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4914,7 +4914,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 207.01 54.61 0)
+			(at 177.8 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4923,7 +4923,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 207.01 52.07 0)
+			(at 177.8 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +4932,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 52.07 0)
+			(at 177.8 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4940,7 +4940,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 52.07 0)
+			(at 177.8 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4965,7 +4965,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 166.37 68.58 0)
+		(at 137.16 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4973,7 +4973,7 @@
 		(dnp no)
 		(uuid "89a06b79-d32a-4b7d-b174-a930e089b3cd")
 		(property "Reference" "SW11"
-			(at 166.37 64.77 0)
+			(at 137.16 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4981,7 +4981,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 166.37 71.12 0)
+			(at 137.16 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4990,7 +4990,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 166.37 68.58 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4999,7 +4999,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 68.58 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5007,7 +5007,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 68.58 0)
+			(at 137.16 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5032,7 +5032,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 69.85 125.73 0)
+		(at 86.36 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5040,7 +5040,7 @@
 		(dnp no)
 		(uuid "8db34ffe-5069-4fd1-88cd-aaef116674c1")
 		(property "Reference" "PWR_SW_4"
-			(at 63.754 130.2766 0)
+			(at 80.264 120.1166 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,7 +5048,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 63.754 132.588 0)
+			(at 80.264 122.428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5056,7 +5056,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 69.85 125.73 0)
+			(at 86.36 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5065,7 +5065,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 125.73 0)
+			(at 86.36 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5074,7 +5074,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 125.73 0)
+			(at 86.36 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5162,7 +5162,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 207.01 35.56 0)
+		(at 177.8 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5170,7 +5170,7 @@
 		(dnp no)
 		(uuid "94cd0168-5797-40b6-8c81-305399657f78")
 		(property "Reference" "SW3"
-			(at 207.01 31.75 0)
+			(at 177.8 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,7 +5178,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 207.01 38.1 0)
+			(at 177.8 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5187,7 +5187,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 207.01 35.56 0)
+			(at 177.8 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,7 +5196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 35.56 0)
+			(at 177.8 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5204,7 +5204,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 35.56 0)
+			(at 177.8 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5229,7 +5229,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 59.69 88.9 0)
+		(at 76.2 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5237,7 +5237,7 @@
 		(dnp no)
 		(uuid "9c95134c-29a5-40e9-9d5b-02c1bd8f8d51")
 		(property "Reference" "#PWR0104"
-			(at 59.69 95.25 0)
+			(at 76.2 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5246,7 +5246,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 59.69 92.71 0)
+			(at 76.2 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5254,7 +5254,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 88.9 0)
+			(at 76.2 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5263,7 +5263,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 88.9 0)
+			(at 76.2 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5272,7 +5272,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 59.69 88.9 0)
+			(at 76.2 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5294,7 +5294,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 247.65 85.09 0)
+		(at 218.44 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5302,7 +5302,7 @@
 		(dnp no)
 		(uuid "a136b1e0-f13a-4e7e-9c82-c8f10acc7ef8")
 		(property "Reference" "SW17"
-			(at 247.65 81.28 0)
+			(at 218.44 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5310,7 +5310,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 247.65 87.63 0)
+			(at 218.44 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5319,7 +5319,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 247.65 85.09 0)
+			(at 218.44 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5328,7 +5328,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 85.09 0)
+			(at 218.44 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5336,7 +5336,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 85.09 0)
+			(at 218.44 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5421,7 +5421,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 186.69 35.56 0)
+		(at 157.48 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5429,7 +5429,7 @@
 		(dnp no)
 		(uuid "a64034db-60b0-4213-b559-697127e1cdc3")
 		(property "Reference" "SW2"
-			(at 186.69 31.75 0)
+			(at 157.48 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +5437,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 186.69 38.1 0)
+			(at 157.48 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5446,7 +5446,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 186.69 35.56 0)
+			(at 157.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5455,7 +5455,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 35.56 0)
+			(at 157.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5463,7 +5463,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 35.56 0)
+			(at 157.48 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5488,7 +5488,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 45.72 142.24 180)
+		(at 62.23 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5496,7 +5496,7 @@
 		(dnp no)
 		(uuid "b2c1f727-46e6-46a8-b7e3-4aa156e00efa")
 		(property "Reference" "J3"
-			(at 35.306 139.446 0)
+			(at 51.816 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5504,7 +5504,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 35.306 141.986 0)
+			(at 51.816 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5512,7 +5512,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Pogopin_socket_1x01_1.20mm_vertical"
-			(at 45.72 142.24 0)
+			(at 62.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5521,7 +5521,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 142.24 0)
+			(at 62.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5530,7 +5530,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 45.72 142.24 0)
+			(at 62.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,7 +5552,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 194.31 55.88 90)
+		(at 165.1 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5560,7 +5560,7 @@
 		(dnp no)
 		(uuid "b6968ee5-3113-4c10-a43c-2f0d254968dd")
 		(property "Reference" "D7"
-			(at 196.3166 54.7116 90)
+			(at 167.1066 53.4416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5569,7 +5569,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 196.3166 57.023 90)
+			(at 167.1066 55.753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5578,7 +5578,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 194.31 55.88 0)
+			(at 165.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5587,7 +5587,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 55.88 0)
+			(at 165.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +5596,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 55.88 0)
+			(at 165.1 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5621,7 +5621,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 186.69 68.58 0)
+		(at 157.48 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5629,7 +5629,7 @@
 		(dnp no)
 		(uuid "b71d634b-8ac2-41b9-83b1-fecd2225d7c5")
 		(property "Reference" "SW12"
-			(at 186.69 64.77 0)
+			(at 157.48 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5637,7 +5637,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 186.69 71.12 0)
+			(at 157.48 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5646,7 +5646,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 186.69 68.58 0)
+			(at 157.48 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5655,7 +5655,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 68.58 0)
+			(at 157.48 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5663,7 +5663,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 186.69 68.58 0)
+			(at 157.48 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5688,7 +5688,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 166.37 35.56 0)
+		(at 137.16 34.29 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5697,7 +5697,7 @@
 		(dnp no)
 		(uuid "b7e1808b-86af-4d37-ac86-c9ba207ba7be")
 		(property "Reference" "SW1"
-			(at 166.37 31.75 0)
+			(at 137.16 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5705,7 +5705,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 166.37 38.1 0)
+			(at 137.16 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5714,7 +5714,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 166.37 35.56 0)
+			(at 137.16 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5723,7 +5723,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 166.37 35.56 0)
+			(at 137.16 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5731,7 +5731,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 35.56 0)
+			(at 137.16 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +5756,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 69.85 115.57 0)
+		(at 86.36 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5764,7 +5764,7 @@
 		(dnp no)
 		(uuid "c0846883-952f-4ece-808d-ea2884807fa0")
 		(property "Reference" "PWR_SW_3"
-			(at 65.024 107.4166 0)
+			(at 81.534 97.2566 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5772,7 +5772,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 65.024 109.728 0)
+			(at 81.534 99.568 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5780,7 +5780,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 69.85 115.57 0)
+			(at 86.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5789,7 +5789,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 115.57 0)
+			(at 86.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5798,7 +5798,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 115.57 0)
+			(at 86.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5826,7 +5826,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 255.27 72.39 90)
+		(at 226.06 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5834,7 +5834,7 @@
 		(dnp no)
 		(uuid "c2608ebc-a660-405b-9147-f1a60e1ceb5b")
 		(property "Reference" "D15"
-			(at 257.2766 71.2216 90)
+			(at 228.0666 69.9516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5843,7 +5843,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 257.2766 73.533 90)
+			(at 228.0666 72.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,7 +5852,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 255.27 72.39 0)
+			(at 226.06 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +5861,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 72.39 0)
+			(at 226.06 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5870,7 +5870,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 72.39 0)
+			(at 226.06 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5895,7 +5895,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
-		(at 45.72 147.32 180)
+		(at 62.23 137.16 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5903,7 +5903,7 @@
 		(dnp no)
 		(uuid "c6fb303c-3440-432d-9179-d28112d836c2")
 		(property "Reference" "J4"
-			(at 35.306 144.526 0)
+			(at 51.816 134.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5911,7 +5911,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Socket"
-			(at 35.306 147.066 0)
+			(at 51.816 136.906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5919,7 +5919,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Pogopin_socket_1x01_1.20mm_vertical"
-			(at 45.72 147.32 0)
+			(at 62.23 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5928,7 +5928,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 147.32 0)
+			(at 62.23 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5937,7 +5937,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 45.72 147.32 0)
+			(at 62.23 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5959,7 +5959,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 194.31 39.37 90)
+		(at 165.1 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5967,7 +5967,7 @@
 		(dnp no)
 		(uuid "c722a7e3-4fe8-4ab9-8059-60fe2f542d02")
 		(property "Reference" "D2"
-			(at 196.3166 38.2016 90)
+			(at 167.1066 36.9316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5976,7 +5976,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 196.3166 40.513 90)
+			(at 167.1066 39.243 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5985,7 +5985,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 194.31 39.37 0)
+			(at 165.1 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5994,7 +5994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 39.37 0)
+			(at 165.1 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6003,7 +6003,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.31 39.37 0)
+			(at 165.1 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6028,7 +6028,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 173.99 72.39 90)
+		(at 144.78 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6036,7 +6036,7 @@
 		(dnp no)
 		(uuid "c842f7d0-1f60-4cf6-8928-65f854681eaf")
 		(property "Reference" "D11"
-			(at 175.9966 71.2216 90)
+			(at 146.7866 69.9516 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6045,7 +6045,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 175.9966 73.533 90)
+			(at 146.7866 72.263 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6054,7 +6054,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 173.99 72.39 0)
+			(at 144.78 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6063,7 +6063,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 72.39 0)
+			(at 144.78 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6072,7 +6072,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 72.39 0)
+			(at 144.78 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6097,7 +6097,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 247.65 68.58 0)
+		(at 218.44 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6105,7 +6105,7 @@
 		(dnp no)
 		(uuid "d016e514-e6b8-4344-aaa3-6ba30b73b708")
 		(property "Reference" "SW15"
-			(at 247.65 64.77 0)
+			(at 218.44 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6113,7 +6113,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 247.65 71.12 0)
+			(at 218.44 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6122,7 +6122,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 247.65 68.58 0)
+			(at 218.44 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6131,7 +6131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 247.65 68.58 0)
+			(at 218.44 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6139,7 +6139,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 68.58 0)
+			(at 218.44 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6224,7 +6224,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 227.33 68.58 0)
+		(at 198.12 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6232,7 +6232,7 @@
 		(dnp no)
 		(uuid "d6db04ea-7d6a-4742-92a1-a02e511fe61f")
 		(property "Reference" "SW14"
-			(at 227.33 64.77 0)
+			(at 198.12 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6240,7 +6240,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 227.33 71.12 0)
+			(at 198.12 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6249,7 +6249,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 227.33 68.58 0)
+			(at 198.12 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6258,7 +6258,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 68.58 0)
+			(at 198.12 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6266,7 +6266,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 68.58 0)
+			(at 198.12 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6291,7 +6291,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 207.01 68.58 0)
+		(at 177.8 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6299,7 +6299,7 @@
 		(dnp no)
 		(uuid "dc75e9a2-b049-410a-a685-6fe68c94b193")
 		(property "Reference" "SW13"
-			(at 207.01 64.77 0)
+			(at 177.8 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6307,7 +6307,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 207.01 71.12 0)
+			(at 177.8 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6316,7 +6316,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 207.01 68.58 0)
+			(at 177.8 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6325,7 +6325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 68.58 0)
+			(at 177.8 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6333,7 +6333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 68.58 0)
+			(at 177.8 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6358,7 +6358,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 234.95 55.88 90)
+		(at 205.74 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6366,7 +6366,7 @@
 		(dnp no)
 		(uuid "e1dc1b2b-1084-4b03-9ab0-88c96f37a9eb")
 		(property "Reference" "D9"
-			(at 236.9566 54.7116 90)
+			(at 207.7466 53.4416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6375,7 +6375,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 236.9566 57.023 90)
+			(at 207.7466 55.753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6384,7 +6384,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 234.95 55.88 0)
+			(at 205.74 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6393,7 +6393,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 55.88 0)
+			(at 205.74 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6402,7 +6402,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 55.88 0)
+			(at 205.74 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6427,7 +6427,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 255.27 39.37 90)
+		(at 226.06 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6435,7 +6435,7 @@
 		(dnp no)
 		(uuid "e74b607f-19f6-4824-9e2b-a7b0ff380325")
 		(property "Reference" "D5"
-			(at 257.2766 38.2016 90)
+			(at 228.0666 36.9316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6444,7 +6444,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 257.2766 40.513 90)
+			(at 228.0666 39.243 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6453,7 +6453,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 255.27 39.37 0)
+			(at 226.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6462,7 +6462,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 39.37 0)
+			(at 226.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6471,7 +6471,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 39.37 0)
+			(at 226.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6496,7 +6496,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:SW_PUSH-Lily58-cache-Lily58_Pro-rescue")
-		(at 227.33 85.09 0)
+		(at 198.12 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6504,7 +6504,7 @@
 		(dnp no)
 		(uuid "e9dd6226-540f-4bdf-829f-532091874ede")
 		(property "Reference" "SW16"
-			(at 227.33 81.28 0)
+			(at 198.12 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6512,7 @@
 			)
 		)
 		(property "Value" "${REFERENCE}"
-			(at 227.33 87.63 0)
+			(at 198.12 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6521,7 +6521,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Kailh_Choc_PG1350_v1+2_Hotswap_reversible"
-			(at 227.33 85.09 0)
+			(at 198.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6530,7 +6530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 227.33 85.09 0)
+			(at 198.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6538,7 +6538,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 227.33 85.09 0)
+			(at 198.12 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6563,7 +6563,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 173.99 55.88 90)
+		(at 144.78 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6571,7 +6571,7 @@
 		(dnp no)
 		(uuid "f06bb35d-8c4b-4118-bd29-3c0058804817")
 		(property "Reference" "D6"
-			(at 175.9966 54.7116 90)
+			(at 146.7866 53.4416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,7 +6580,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 175.9966 57.023 90)
+			(at 146.7866 55.753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6589,7 +6589,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 173.99 55.88 0)
+			(at 144.78 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6598,7 +6598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 55.88 0)
+			(at 144.78 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6607,7 +6607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 55.88 0)
+			(at 144.78 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6632,7 +6632,7 @@
 	)
 	(symbol
 		(lib_id "jw_custom_symbols:SeeeduinoXIAO_nRF52840")
-		(at 54.61 60.96 0)
+		(at 71.12 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6640,7 +6640,7 @@
 		(dnp no)
 		(uuid "f36ad055-3a99-48b1-910f-7c82c82f757f")
 		(property "Reference" "U1"
-			(at 49.53 42.418 0)
+			(at 66.04 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6649,7 +6649,7 @@
 			)
 		)
 		(property "Value" "SeeeduinoXIAO_nRF52840"
-			(at 27.432 39.116 0)
+			(at 43.942 28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6658,7 +6658,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Xiao_nRF52840_THT_jumper_1.55mm_hole"
-			(at 54.61 90.678 0)
+			(at 71.12 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6667,7 +6667,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 55.88 0)
+			(at 62.23 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6676,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 54.61 60.96 0)
+			(at 71.12 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +6761,7 @@
 	)
 	(symbol
 		(lib_id "SofleKeyboard-rescue:D-Lily58-cache-Lily58_Pro-rescue")
-		(at 234.95 39.37 90)
+		(at 205.74 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6769,7 +6769,7 @@
 		(dnp no)
 		(uuid "f8dcef55-b8d1-47b0-bb69-b99c73f8d690")
 		(property "Reference" "D4"
-			(at 236.9566 38.2016 90)
+			(at 207.7466 36.9316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6778,7 +6778,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 236.9566 40.513 90)
+			(at 207.7466 39.243 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,7 +6787,7 @@
 			)
 		)
 		(property "Footprint" "jw_custom_footprints:Diode_SOD123_THT_2"
-			(at 234.95 39.37 0)
+			(at 205.74 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6796,7 +6796,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 234.95 39.37 0)
+			(at 205.74 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6805,7 +6805,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 39.37 0)
+			(at 205.74 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
